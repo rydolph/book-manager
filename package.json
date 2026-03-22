@@ -1,6 +1,5 @@
 {
   "name": "book-manager",
-  "homepage": "https://ваш-логин.github.io/book-manager/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
